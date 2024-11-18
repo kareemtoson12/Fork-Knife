@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RestaurantOrderApp" parent="Theme.Material3.DayNight.NoActionBar">
+<item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Theme.RestaurantOrderApp" parent="Base.Theme.RestaurantOrderApp" />
+</resources>
